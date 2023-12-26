@@ -1,0 +1,8 @@
+address: 'https://test-stand.gb.ru/login'
+browser: 'chrome'
+sleep_time: 2
+login: 'andy08'
+password: '9f65c0c3f3'
+name: 'qwerty2332'
+email: 'as@as.ru'
+content: '12garden'
